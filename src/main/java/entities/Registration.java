@@ -38,6 +38,6 @@ public class Registration {
 
     @Override
     public String toString() {
-        return "Member ID " + member_id + ": Team " + team_id + ": Price " + price;
+        return "Member ID " + member_id + " : Team " + team_id + " : Price " + price;
     }
 }
